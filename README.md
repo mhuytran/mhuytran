@@ -5,7 +5,7 @@
 - 🔭    I’m currently working on a Data Science Project!
 - 🌱    I’m currently learning everything related to Data Science or Machine Learning!
 - 👯    I'm looking to collaborate with others on Data Science or Machine Learning projects.
-- 🥅    2020-2021 Goals: Publishing more projects on GitHub, 
+- 🥅    2020-2021 Goals: Publishing more projects on GitHub.
 - ⚡    Fun fact: My favorite KPOP group is ATEEZ.
 
 ### Connect with me:
