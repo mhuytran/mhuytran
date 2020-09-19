@@ -28,5 +28,9 @@
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 
+<br/>
 
+### Published Projects:
+
+[DNA & RNA Converter Project](https://github.com/mhuytran/DNA_RNA_Converter_Project)
 
