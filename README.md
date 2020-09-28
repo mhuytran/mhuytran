@@ -33,4 +33,5 @@
 ### Published Projects:
 
 [Nucleic Acids Project](https://github.com/mhuytran/nucleic_acids)
+[Data Science Projects](https://github.com/mhuytran/DataSciProjects)
 
