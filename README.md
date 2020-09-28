@@ -32,5 +32,5 @@
 
 ### Published Projects:
 
-[DNA & RNA Converter Project](https://github.com/mhuytran/DNA_RNA_Converter_Project)
+[Nucleic Acids Project](https://github.com/mhuytran/nucleic_acids)
 
