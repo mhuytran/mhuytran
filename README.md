@@ -2,8 +2,8 @@
 
 ## I'm a first-year Bioengineering student at UCR!
 
-- 🔭    I’m currently working on a Data Science Project!
-- 🌱    I’m currently learning everything related to Data Science or Machine Learning!
+- 🔭    I’m currently working on no projects at the moment!
+- 🌱    I’m currently learning everything related to Data Science, Machine Learning, and Python!
 - 👯    I'm looking to collaborate with others on Data Science or Machine Learning projects.
 - 🥅    2020-2021 Goals: Publishing more projects on GitHub.
 - ⚡    Fun fact: My favorite KPOP group is ATEEZ.
