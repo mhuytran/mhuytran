@@ -1,6 +1,6 @@
 ### Hello!, My name is Huy (my full name is Minh-Huy) 👋
 
-## I'm a first-year Bioengineering student at UCR!
+## I'm a second-year Bioengineering student at UCR!
 
 - 🔭    I’m currently working on no projects at the moment!
 - 🌱    I’m currently learning everything related to Data Science, Machine Learning, and Python!
