@@ -32,6 +32,6 @@
 
 ### Published Projects:
 
-1. [Nucleic Acids Project](https://github.com/mhuytran/nucleic_acids)
+1. [Nucleic Acids Base Pairing Software](https://github.com/mhuytran/nucleic_acids)
 2. [Data Science Projects](https://github.com/mhuytran/DataSciProjects)
 
