@@ -1,12 +1,6 @@
 ### Hello!, My name is Huy (my full name is Minh-Huy) 👋
 
-## I'm a second-year Bioengineering student at UCR!
-
-- 🔭    I’m currently working on no projects at the moment!
-- 🌱    I’m currently learning everything related to Data Science, Machine Learning, and Python!
-- 👯    I'm looking to collaborate with others on Data Science or Machine Learning projects.
-- 🥅    2020-2021 Goals: Publishing more projects on GitHub.
-- ⚡    Fun fact: My favorite KPOP group is ATEEZ.
+## I'm a fourth year Bioengineering student at UCR!
 
 ### Connect with me:
 [<img align="left" alt="huy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/niddehtaeh)
