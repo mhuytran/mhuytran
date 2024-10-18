@@ -1,6 +1,6 @@
 ### Hello!, My name is Huy (my full name is Minh-Huy) 👋
 
-## I'm a fourth year Bioengineering student at UCR!
+## I'm a random guy on GitHub!
 
 ### Connect with me:
 [<img align="left" alt="huy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/niddehtaeh)
